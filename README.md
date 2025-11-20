@@ -124,4 +124,5 @@ http://127.0.0.1:8000/docs
 
 ---
 
-A strong end‑to‑end ML Engineering project demonstrating model training, evaluation, and a production inference API.
+**Built as part of ML Engineering learning track** 🚀
+
