@@ -1,0 +1,9 @@
+torch
+torchvision
+torchaudio
+fastapi
+uvicorn
+scikit-learn
+joblib
+matplotlib
+numpy

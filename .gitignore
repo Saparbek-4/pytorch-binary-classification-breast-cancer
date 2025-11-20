@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environments
+env/
+venv/
+*.env
+*.venv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models & artifacts — DO NOT COMMIT WEIGHTS
+saved_models/
+*.pth
+*.pkl
+
+# Visualizations
+visuals/
+*.png
+
+# VSCode
+.vscode/
+
+# OS garbage
+.DS_Store
+Thumbs.db
