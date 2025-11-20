@@ -20,8 +20,7 @@ This repository demonstrates **strong ML engineering skills** and proper separat
 binary_classification_project/
 │
 ├── notebooks/
-│   ├── training.ipynb          
-│   └── eda.ipynb               
+│   ├── training.ipynb                   
 │
 ├── saved_models/
 │   ├── model.pth               
